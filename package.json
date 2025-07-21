@@ -1,0 +1,15 @@
+{
+    "name": "PrefixRenamer",
+    "main": "index.html",
+    "window": {
+        "title": "Prefix Renamer",
+        "width": 450,
+        "height": 1500
+    },
+    "scripts": {
+        "nwbuild": "npx nwbuild --mode=build --platform=osx --arch=arm64 --flavor=sdk /Users/ansolas/DEV/nwjs/prefixer"
+    },
+    "dependencies": {
+        "sortablejs": "^1.15.6"
+    }
+}
