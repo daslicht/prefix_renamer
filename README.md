@@ -28,3 +28,5 @@
 ---
 
 > Designed for quick bulk file renaming and prefix management with zero hassle.
+
+![](https://raw.githubusercontent.com/daslicht/prefix_renamer/refs/heads/main/screenshot.png)
